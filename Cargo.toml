@@ -8,4 +8,5 @@ edition = "2021"
 [dependencies]
 async-std = { version = "1.8.0", features = ["attributes"] }
 calc_near_x = "0.1.0"
+calc_near_x_beto = "0.1.0"
 tide = "0.16.0"
