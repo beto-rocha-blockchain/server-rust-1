@@ -110,7 +110,7 @@ Please ensure your code follows Rust's best practices and includes appropriate t
 
 MIT License
 
-Copyright (c) 2023 Lucas Oliveira
+Copyright (c) 2023 Roberto Pimentel
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
