@@ -3,7 +3,7 @@
 ![Rust](https://img.shields.io/badge/Rust-1.80%2B-orange?logo=rust&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Enabled-blue?logo=docker&logoColor=white)
 ![Build](https://img.shields.io/github/actions/workflow/status/beto-rocha-blockchain/server-rust-1/rust.yml?label=Build&logo=github)
-![License](https://img.shields.io/badge/license-Not%20Specified-lightgrey)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
 
 ## Overview
 The **server-rust-1** repository is a Rust-based server implementation developed by **beto-rocha-blockchain**.  
